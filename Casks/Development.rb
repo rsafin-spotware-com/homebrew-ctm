@@ -1,4 +1,4 @@
-cask "Development cTrader" do
+cask "development-ctrader" do
   version :latest
   sha256 :no_check
 
