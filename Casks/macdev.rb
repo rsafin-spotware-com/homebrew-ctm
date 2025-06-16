@@ -1,10 +1,10 @@
-cask "macdev-ctrader" do
+cask "macdev" do
     version :latest
     sha256 :no_check
   
     url "https://getctrader.lim.spotwa.re/mac/macdev/ctrader-macdev-setup.dmg"
     name "macdev cTrader"
-    desc "macdev"
+    desc "macdev cTrader"
     homepage "https://ctrader.com/"
   
     app "macdev cTrader.app"

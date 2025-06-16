@@ -1,10 +1,10 @@
-cask "spotware-ctrader" do
+cask "spotware" do
     version :latest
     sha256 :no_check
   
     url "https://getctrader.lim.spotwa.re/mac/spotware/ctrader-spotware-setup.dmg"
     name "Spotware cTrader"
-    desc "Spotware"
+    desc "Spotware cTrader"
     homepage "https://ctrader.com/"
   
     app "cTrader.app"

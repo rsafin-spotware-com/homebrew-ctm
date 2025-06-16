@@ -1,10 +1,10 @@
-cask "macstage-ctrader" do
+cask "macstage" do
     version :latest
     sha256 :no_check
   
     url "https://getctrader.lim.spotwa.re/mac/macstage/ctrader-macstage-setup.dmg"
     name "macstage cTrader"
-    desc "macstage"
+    desc "macstage cTrader"
     homepage "https://ctrader.com/"
   
     app "macstage cTrader.app"
